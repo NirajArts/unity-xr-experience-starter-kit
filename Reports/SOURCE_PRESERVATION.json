@@ -1,0 +1,14 @@
+{
+  "timestamp_utc": "2026-11-04T08:02:33.117480+00:00",
+  "baseline_files": 3478,
+  "critical_hashes_checked": 6,
+  "hash_mismatches": 0,
+  "source_branch": "dev",
+  "source_head": "cd9a91f3c0560a209c27f32fcf5666159e31a135",
+  "source_preexisting_changes": "One modified tracked journal and two untracked authoring/document files remain as found.",
+  "source_editor": "No bridge, save, scene mutation or process-stop command was sent to the source project.",
+  "starter_journal_bytes": 0,
+  "source_timestamp_differences": 1,
+  "source_timestamp_note": "OpenXR settings timestamp differs; size unchanged and Git object hash ce08cf17a4b55862c26838b65eb90130295a76ca matches HEAD. No source write command was issued.",
+  "source_content_changes_detected": 0
+}

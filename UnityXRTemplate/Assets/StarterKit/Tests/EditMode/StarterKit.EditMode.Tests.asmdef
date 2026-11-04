@@ -1,0 +1,1 @@
+{"name":"StarterKit.EditMode.Tests","references":["StarterKit.Runtime","StarterKit.Editor","ClientXR.Grips","Oculus.Interaction","UnityEngine.UI"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"],"autoReferenced":false}

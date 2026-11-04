@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="11" result="Passed" total="11" passed="11" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-04 08:07:47Z" end-time="2026-11-04 08:08:07Z" duration="19.8405813">
+  <test-suite type="TestSuite" id="1000" name="XR Experience Starter" fullname="XR Experience Starter" runstate="Runnable" testcasecount="11" result="Passed" start-time="2026-11-04 08:07:47Z" end-time="2026-11-04 08:08:07Z" duration="19.840581" total="11" passed="11" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <test-suite type="Assembly" id="1013" name="StarterKit.PlayMode.Tests.dll" fullname="D:/Office/Siemens/Projects/unity-xr-experience-starter-kit/_scratch/portability-check/UnityXRTemplate/Library/ScriptAssemblies/StarterKit.PlayMode.Tests.dll" runstate="Runnable" testcasecount="11" result="Passed" start-time="2026-11-04 08:07:47Z" end-time="2026-11-04 08:08:07Z" duration="19.821837" total="11" passed="11" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="27020" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+      </properties>
+      <test-suite type="TestSuite" id="1014" name="XRStarter" fullname="XRStarter" runstate="Runnable" testcasecount="11" result="Passed" start-time="2026-11-04 08:07:47Z" end-time="2026-11-04 08:08:07Z" duration="19.820650" total="11" passed="11" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1015" name="Tests" fullname="XRStarter.Tests" runstate="Runnable" testcasecount="11" result="Passed" start-time="2026-11-04 08:07:47Z" end-time="2026-11-04 08:08:07Z" duration="19.819226" total="11" passed="11" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="1001" name="ExperienceTests" fullname="XRStarter.Tests.ExperienceTests" classname="XRStarter.Tests.ExperienceTests" runstate="Runnable" testcasecount="11" result="Passed" start-time="2026-11-04 08:07:47Z" end-time="2026-11-04 08:08:07Z" duration="19.814672" total="11" passed="11" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1012" name="CaptureDemoStates" fullname="XRStarter.Tests.ExperienceTests.CaptureDemoStates" methodname="CaptureDemoStates" classname="XRStarter.Tests.ExperienceTests" runstate="Runnable" seed="1470900036" result="Passed" start-time="2026-11-04 08:07:47Z" end-time="2026-11-04 08:07:49Z" duration="2.667184" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+              </properties>
+              <output><![CDATA[Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+]]></output>
+            </test-case>
+            <test-case id="1007" name="ControlsCompleteExplodeInspectAndReset" fullname="XRStarter.Tests.ExperienceTests.ControlsCompleteExplodeInspectAndReset" methodname="ControlsCompleteExplodeInspectAndReset" classname="XRStarter.Tests.ExperienceTests" runstate="Runnable" seed="801533324" result="Passed" start-time="2026-11-04 08:07:50Z" end-time="2026-11-04 08:07:51Z" duration="1.407411" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+              </properties>
+              <output><![CDATA[Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+]]></output>
+            </test-case>
+            <test-case id="1006" name="FallenPartRecoversEvenWhenRestingOnFloor" fullname="XRStarter.Tests.ExperienceTests.FallenPartRecoversEvenWhenRestingOnFloor" methodname="FallenPartRecoversEvenWhenRestingOnFloor" classname="XRStarter.Tests.ExperienceTests" runstate="Runnable" seed="1494234231" result="Passed" start-time="2026-11-04 08:07:51Z" end-time="2026-11-04 08:07:53Z" duration="2.262703" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+              </properties>
+            </test-case>
+            <test-case id="1009" name="MechanicalFeedbackDoesNotDependOnGuidance" fullname="XRStarter.Tests.ExperienceTests.MechanicalFeedbackDoesNotDependOnGuidance" methodname="MechanicalFeedbackDoesNotDependOnGuidance" classname="XRStarter.Tests.ExperienceTests" runstate="Runnable" seed="663636083" result="Passed" start-time="2026-11-04 08:07:53Z" end-time="2026-11-04 08:07:55Z" duration="1.694313" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+              </properties>
+            </test-case>
+            <test-case id="1004" name="ResetCancelsAnActiveSDKSelection" fullname="XRStarter.Tests.ExperienceTests.ResetCancelsAnActiveSDKSelection" methodname="ResetCancelsAnActiveSDKSelection" classname="XRStarter.Tests.ExperienceTests" runstate="Runnable" seed="446125848" result="Passed" start-time="2026-11-04 08:07:55Z" end-time="2026-11-04 08:07:56Z" duration="0.681874" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+              </properties>
+            </test-case>
+            <test-case id="1010" name="ResetInterruptsAnimationWithoutLeavingLockedParts" fullname="XRStarter.Tests.ExperienceTests.ResetInterruptsAnimationWithoutLeavingLockedParts" methodname="ResetInterruptsAnimationWithoutLeavingLockedParts" classname="XRStarter.Tests.ExperienceTests" runstate="Runnable" seed="1859644439" result="Passed" start-time="2026-11-04 08:07:56Z" end-time="2026-11-04 08:07:56Z" duration="0.902334" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+              </properties>
+            </test-case>
+            <test-case id="1008" name="RotatedWorkspacePreservesMatingAndResetFrames" fullname="XRStarter.Tests.ExperienceTests.RotatedWorkspacePreservesMatingAndResetFrames" methodname="RotatedWorkspacePreservesMatingAndResetFrames" classname="XRStarter.Tests.ExperienceTests" runstate="Runnable" seed="1192906763" result="Passed" start-time="2026-11-04 08:07:56Z" end-time="2026-11-04 08:07:57Z" duration="0.979533" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+              </properties>
+              <output><![CDATA[Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+]]></output>
+            </test-case>
+            <test-case id="1002" name="SDKGrabMovesReleaseSeatsAndRegrabVacates" fullname="XRStarter.Tests.ExperienceTests.SDKGrabMovesReleaseSeatsAndRegrabVacates" methodname="SDKGrabMovesReleaseSeatsAndRegrabVacates" classname="XRStarter.Tests.ExperienceTests" runstate="Runnable" seed="1106789256" result="Passed" start-time="2026-11-04 08:07:57Z" end-time="2026-11-04 08:07:59Z" duration="1.990318" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+              </properties>
+            </test-case>
+            <test-case id="1003" name="TwoPointerGrabDoesNotScaleOrJumpOnHandover" fullname="XRStarter.Tests.ExperienceTests.TwoPointerGrabDoesNotScaleOrJumpOnHandover" methodname="TwoPointerGrabDoesNotScaleOrJumpOnHandover" classname="XRStarter.Tests.ExperienceTests" runstate="Runnable" seed="828938569" result="Passed" start-time="2026-11-04 08:07:59Z" end-time="2026-11-04 08:08:02Z" duration="2.218494" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+              </properties>
+              <output><![CDATA[Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+]]></output>
+            </test-case>
+            <test-case id="1011" name="WorldUIRaycastFindsAndInvokesTheVisibleControl" fullname="XRStarter.Tests.ExperienceTests.WorldUIRaycastFindsAndInvokesTheVisibleControl" methodname="WorldUIRaycastFindsAndInvokesTheVisibleControl" classname="XRStarter.Tests.ExperienceTests" runstate="Runnable" seed="423278043" result="Passed" start-time="2026-11-04 08:08:02Z" end-time="2026-11-04 08:08:06Z" duration="4.171500" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+              </properties>
+              <output><![CDATA[Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+]]></output>
+            </test-case>
+            <test-case id="1005" name="WrongAndOccupiedSlotsRejectParts" fullname="XRStarter.Tests.ExperienceTests.WrongAndOccupiedSlotsRejectParts" methodname="WrongAndOccupiedSlotsRejectParts" classname="XRStarter.Tests.ExperienceTests" runstate="Runnable" seed="42754814" result="Passed" start-time="2026-11-04 08:08:06Z" end-time="2026-11-04 08:08:07Z" duration="0.805972" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+              </properties>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

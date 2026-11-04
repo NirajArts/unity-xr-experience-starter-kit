@@ -1,0 +1,19 @@
+{
+  "timestamp_utc": "2026-11-04T08:09:59.5848527Z",
+  "package": "com.xrstarter.experience",
+  "minimum_api": 32,
+  "target_api": 36,
+  "architecture": "arm64-v8a",
+  "bytes": 69934558,
+  "sha256": "c4f979bc60fb8309feb873e52497fb35112e04cd62c24c5e5f67148273be9928",
+  "hand_tracking": "Optional feature; HAND_TRACKING permission; HIGH frequency",
+  "eye_tracking": "Absent: no feature or permission",
+  "targets": [
+    "Quest 2",
+    "Quest Pro",
+    "Quest 3",
+    "Quest 3S"
+  ],
+  "build": "Development; not installed on a device",
+  "notes": "Scoped postprocessor corrects OpenXR 1.14.3 Quest Pro eye-tracking requirement. SDK/development Internet permission retained."
+}

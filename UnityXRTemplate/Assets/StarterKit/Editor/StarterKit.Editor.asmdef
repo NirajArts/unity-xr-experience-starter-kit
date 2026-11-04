@@ -1,0 +1,1 @@
+{"name":"StarterKit.Editor","references":["StarterKit.Runtime","ClientXR.Grips","ClientXR.Grips.Editor","Oculus.VR","Oculus.VR.Editor","Oculus.Interaction","Oculus.Interaction.OVR","Unity.InputSystem","UnityEngine.UI","Unity.XR.Management","Unity.XR.Management.Editor","Unity.XR.OpenXR","Unity.XR.OpenXR.Editor"],"includePlatforms":["Editor"],"autoReferenced":true}

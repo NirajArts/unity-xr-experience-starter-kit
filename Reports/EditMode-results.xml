@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="34" result="Passed" total="34" passed="34" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:24Z" duration="2.9680746">
+  <test-suite type="TestSuite" id="1054" name="XR Experience Starter" fullname="XR Experience Starter" runstate="Runnable" testcasecount="34" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:24Z" duration="2.968075" total="34" passed="34" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <test-suite type="Assembly" id="1096" name="ClientXR.Grips.EditTests.dll" fullname="D:/Office/Siemens/Projects/unity-xr-experience-starter-kit/_scratch/portability-check/UnityXRTemplate/Library/ScriptAssemblies/ClientXR.Grips.EditTests.dll" runstate="Runnable" testcasecount="31" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:23Z" duration="1.952683" total="31" passed="31" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="13720" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+      </properties>
+      <test-suite type="TestSuite" id="1097" name="ClientXR" fullname="ClientXR" runstate="Runnable" testcasecount="31" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:23Z" duration="1.952036" total="31" passed="31" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1098" name="Grips" fullname="ClientXR.Grips" runstate="Runnable" testcasecount="31" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:23Z" duration="1.948030" total="31" passed="31" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestSuite" id="1099" name="Tests" fullname="ClientXR.Grips.Tests" runstate="Runnable" testcasecount="31" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:23Z" duration="1.944919" total="31" passed="31" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-suite type="TestFixture" id="1055" name="GripDataTests" fullname="ClientXR.Grips.Tests.GripDataTests" classname="ClientXR.Grips.Tests.GripDataTests" runstate="Runnable" testcasecount="10" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:22Z" duration="1.680718" total="10" passed="10" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1063" name="ApplyUndoRedoAndSharedIsolation" fullname="ClientXR.Grips.Tests.GripDataTests.ApplyUndoRedoAndSharedIsolation" methodname="ApplyUndoRedoAndSharedIsolation" classname="ClientXR.Grips.Tests.GripDataTests" runstate="Runnable" seed="1949562912" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:21Z" duration="0.059102" asserts="0">
+                <properties />
+              </test-case>
+              <test-case id="1057" name="CopyRoundTripAndIncompatibleMappingRejection" fullname="ClientXR.Grips.Tests.GripDataTests.CopyRoundTripAndIncompatibleMappingRejection" methodname="CopyRoundTripAndIncompatibleMappingRejection" classname="ClientXR.Grips.Tests.GripDataTests" runstate="Runnable" seed="1586412601" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:21Z" duration="0.002452" asserts="0">
+                <properties />
+              </test-case>
+              <test-suite type="ParameterizedMethod" id="1060" name="DoubleMirrorRestoresActualSkeletonAndPlacement" fullname="ClientXR.Grips.Tests.GripDataTests.DoubleMirrorRestoresActualSkeletonAndPlacement" classname="ClientXR.Grips.Tests.GripDataTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:21Z" duration="0.019918" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+                <properties />
+                <test-case id="1058" name="DoubleMirrorRestoresActualSkeletonAndPlacement(Left)" fullname="ClientXR.Grips.Tests.GripDataTests.DoubleMirrorRestoresActualSkeletonAndPlacement(Left)" methodname="DoubleMirrorRestoresActualSkeletonAndPlacement" classname="ClientXR.Grips.Tests.GripDataTests" runstate="Runnable" seed="1586007280" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:21Z" duration="0.006424" asserts="0">
+                  <properties />
+                </test-case>
+                <test-case id="1059" name="DoubleMirrorRestoresActualSkeletonAndPlacement(Right)" fullname="ClientXR.Grips.Tests.GripDataTests.DoubleMirrorRestoresActualSkeletonAndPlacement(Right)" methodname="DoubleMirrorRestoresActualSkeletonAndPlacement" classname="ClientXR.Grips.Tests.GripDataTests" runstate="Runnable" seed="414158154" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:21Z" duration="0.001320" asserts="0">
+                  <properties />
+                </test-case>
+              </test-suite>
+              <test-case id="1064" name="ExplicitSetupUndoRedoPreservesExistingInteractable" fullname="ClientXR.Grips.Tests.GripDataTests.ExplicitSetupUndoRedoPreservesExistingInteractable" methodname="ExplicitSetupUndoRedoPreservesExistingInteractable" classname="ClientXR.Grips.Tests.GripDataTests" runstate="Runnable" seed="14999988" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:21Z" duration="0.006412" asserts="0">
+                <properties />
+              </test-case>
+              <test-case id="1056" name="IndependentHandsAndFingerControlsDoNotMutateSdk" fullname="ClientXR.Grips.Tests.GripDataTests.IndependentHandsAndFingerControlsDoNotMutateSdk" methodname="IndependentHandsAndFingerControlsDoNotMutateSdk" classname="ClientXR.Grips.Tests.GripDataTests" runstate="Runnable" seed="814491034" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:21Z" duration="0.002282" asserts="0">
+                <properties />
+              </test-case>
+              <test-case id="1061" name="MetreFrameRoundTripsScale100Minus90AndMovedParents" fullname="ClientXR.Grips.Tests.GripDataTests.MetreFrameRoundTripsScale100Minus90AndMovedParents" methodname="MetreFrameRoundTripsScale100Minus90AndMovedParents" classname="ClientXR.Grips.Tests.GripDataTests" runstate="Runnable" seed="3478159" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:21Z" duration="0.006195" asserts="0">
+                <properties />
+              </test-case>
+              <test-case id="1066" name="PrefabVariantAndSceneSerializationPreserveOwnershipAndReferences" fullname="ClientXR.Grips.Tests.GripDataTests.PrefabVariantAndSceneSerializationPreserveOwnershipAndReferences" methodname="PrefabVariantAndSceneSerializationPreserveOwnershipAndReferences" classname="ClientXR.Grips.Tests.GripDataTests" runstate="Runnable" seed="207683657" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:21Z" duration="0.463245" asserts="0">
+                <properties />
+                <output><![CDATA[Unloading the last loaded scene Assets/ClientXR/GripEditor/Tests/TemporaryPersistence/Roundtrip.unity(build index: -1), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+Unloading the last loaded scene Assets/ClientXR/GripEditor/Tests/TemporaryPersistence/Roundtrip.unity(build index: -1), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+]]></output>
+              </test-case>
+              <test-case id="1062" name="PreviewUsesInstalledMappingAndCleansUp" fullname="ClientXR.Grips.Tests.GripDataTests.PreviewUsesInstalledMappingAndCleansUp" methodname="PreviewUsesInstalledMappingAndCleansUp" classname="ClientXR.Grips.Tests.GripDataTests" runstate="Runnable" seed="1760244564" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:21Z" duration="0.017492" asserts="0">
+                <properties />
+              </test-case>
+              <test-case id="1065" name="WindowDraftUndoSaveReloadAndRevertAreRealTransactions" fullname="ClientXR.Grips.Tests.GripDataTests.WindowDraftUndoSaveReloadAndRevertAreRealTransactions" methodname="WindowDraftUndoSaveReloadAndRevertAreRealTransactions" classname="ClientXR.Grips.Tests.GripDataTests" runstate="Runnable" seed="1372295026" result="Passed" start-time="2026-11-04 07:58:21Z" end-time="2026-11-04 07:58:22Z" duration="1.087205" asserts="0">
+                <properties />
+              </test-case>
+            </test-suite>
+            <test-suite type="TestFixture" id="1067" name="GripJointControlsTests" fullname="ClientXR.Grips.Tests.GripJointControlsTests" classname="ClientXR.Grips.Tests.GripJointControlsTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:22Z" duration="0.102627" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-suite type="ParameterizedMethod" id="1070" name="IndividualBoneControlsChangeRealPreviewAndPreserveOtherData" fullname="ClientXR.Grips.Tests.GripJointControlsTests.IndividualBoneControlsChangeRealPreviewAndPreserveOtherData" classname="ClientXR.Grips.Tests.GripJointControlsTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:22Z" duration="0.092541" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+                <properties />
+                <test-case id="1068" name="IndividualBoneControlsChangeRealPreviewAndPreserveOtherData(Left)" fullname="ClientXR.Grips.Tests.GripJointControlsTests.IndividualBoneControlsChangeRealPreviewAndPreserveOtherData(Left)" methodname="IndividualBoneControlsChangeRealPreviewAndPreserveOtherData" classname="ClientXR.Grips.Tests.GripJointControlsTests" runstate="Runnable" seed="896093817" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:22Z" duration="0.036904" asserts="0">
+                  <properties />
+                </test-case>
+                <test-case id="1069" name="IndividualBoneControlsChangeRealPreviewAndPreserveOtherData(Right)" fullname="ClientXR.Grips.Tests.GripJointControlsTests.IndividualBoneControlsChangeRealPreviewAndPreserveOtherData(Right)" methodname="IndividualBoneControlsChangeRealPreviewAndPreserveOtherData" classname="ClientXR.Grips.Tests.GripJointControlsTests" runstate="Runnable" seed="1600405593" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:22Z" duration="0.019465" asserts="0">
+                  <properties />
+                </test-case>
+              </test-suite>
+            </test-suite>
+            <test-suite type="TestFixture" id="1071" name="GripParityTests" fullname="ClientXR.Grips.Tests.GripParityTests" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" testcasecount="17" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:23Z" duration="0.129003" total="17" passed="17" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1087" name="ClipboardRebaseKeepsDestinationAndShape" fullname="ClientXR.Grips.Tests.GripParityTests.ClipboardRebaseKeepsDestinationAndShape" methodname="ClipboardRebaseKeepsDestinationAndShape" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="1743220605" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:22Z" duration="0.003354" asserts="0">
+                <properties />
+              </test-case>
+              <test-case id="1092" name="DisabledOptionsPreserveLegacyWrist" fullname="ClientXR.Grips.Tests.GripParityTests.DisabledOptionsPreserveLegacyWrist" methodname="DisabledOptionsPreserveLegacyWrist" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="100267460" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:22Z" duration="0.000551" asserts="0">
+                <properties />
+              </test-case>
+              <test-suite type="ParameterizedMethod" id="1090" name="JointHandleRoundTripPreservesShortcutsAndOtherJoints" fullname="ClientXR.Grips.Tests.GripParityTests.JointHandleRoundTripPreservesShortcutsAndOtherJoints" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:22Z" duration="0.013419" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+                <properties />
+                <test-case id="1088" name="JointHandleRoundTripPreservesShortcutsAndOtherJoints(Left)" fullname="ClientXR.Grips.Tests.GripParityTests.JointHandleRoundTripPreservesShortcutsAndOtherJoints(Left)" methodname="JointHandleRoundTripPreservesShortcutsAndOtherJoints" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="597871559" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:22Z" duration="0.007090" asserts="0">
+                  <properties />
+                </test-case>
+                <test-case id="1089" name="JointHandleRoundTripPreservesShortcutsAndOtherJoints(Right)" fullname="ClientXR.Grips.Tests.GripParityTests.JointHandleRoundTripPreservesShortcutsAndOtherJoints(Right)" methodname="JointHandleRoundTripPreservesShortcutsAndOtherJoints" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="280988212" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:22Z" duration="0.005035" asserts="0">
+                  <properties />
+                </test-case>
+              </test-suite>
+              <test-case id="1078" name="LimitsAndInvalidData" fullname="ClientXR.Grips.Tests.GripParityTests.LimitsAndInvalidData" methodname="LimitsAndInvalidData" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="1896311270" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:22Z" duration="0.000653" asserts="0">
+                <properties />
+              </test-case>
+              <test-suite type="ParameterizedMethod" id="1082" name="MirrorOrbitContactAndDoubleMirror" fullname="ClientXR.Grips.Tests.GripParityTests.MirrorOrbitContactAndDoubleMirror" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:22Z" duration="0.008141" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+                <properties />
+                <test-case id="1079" name="MirrorOrbitContactAndDoubleMirror(0)" fullname="ClientXR.Grips.Tests.GripParityTests.MirrorOrbitContactAndDoubleMirror(0)" methodname="MirrorOrbitContactAndDoubleMirror" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="1749766163" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:22Z" duration="0.002149" asserts="0">
+                  <properties />
+                </test-case>
+                <test-case id="1080" name="MirrorOrbitContactAndDoubleMirror(1)" fullname="ClientXR.Grips.Tests.GripParityTests.MirrorOrbitContactAndDoubleMirror(1)" methodname="MirrorOrbitContactAndDoubleMirror" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="161501625" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:22Z" duration="0.003976" asserts="0">
+                  <properties />
+                </test-case>
+                <test-case id="1081" name="MirrorOrbitContactAndDoubleMirror(2)" fullname="ClientXR.Grips.Tests.GripParityTests.MirrorOrbitContactAndDoubleMirror(2)" methodname="MirrorOrbitContactAndDoubleMirror" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="1417965703" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:22Z" duration="0.000854" asserts="0">
+                  <properties />
+                </test-case>
+              </test-suite>
+              <test-case id="1091" name="NamedGripManagementIsIndependentAndUndoable" fullname="ClientXR.Grips.Tests.GripParityTests.NamedGripManagementIsIndependentAndUndoable" methodname="NamedGripManagementIsIndependentAndUndoable" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="2130798797" result="Passed" start-time="2026-11-04 07:58:22Z" end-time="2026-11-04 07:58:23Z" duration="0.059812" asserts="0">
+                <properties />
+              </test-case>
+              <test-suite type="ParameterizedMethod" id="1077" name="OrbitAndAcquisition" fullname="ClientXR.Grips.Tests.GripParityTests.OrbitAndAcquisition" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.019910" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+                <properties />
+                <test-case id="1072" name="OrbitAndAcquisition(0.0f)" fullname="ClientXR.Grips.Tests.GripParityTests.OrbitAndAcquisition(0.0f)" methodname="OrbitAndAcquisition" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="139775431" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.003152" asserts="0">
+                  <properties />
+                </test-case>
+                <test-case id="1073" name="OrbitAndAcquisition(90.0f)" fullname="ClientXR.Grips.Tests.GripParityTests.OrbitAndAcquisition(90.0f)" methodname="OrbitAndAcquisition" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="391149785" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.000820" asserts="0">
+                  <properties />
+                </test-case>
+                <test-case id="1074" name="OrbitAndAcquisition(-90.0f)" fullname="ClientXR.Grips.Tests.GripParityTests.OrbitAndAcquisition(-90.0f)" methodname="OrbitAndAcquisition" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="230498352" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.000339" asserts="0">
+                  <properties />
+                </test-case>
+                <test-case id="1075" name="OrbitAndAcquisition(179.9f)" fullname="ClientXR.Grips.Tests.GripParityTests.OrbitAndAcquisition(179.9f)" methodname="OrbitAndAcquisition" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="1479678866" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.000472" asserts="0">
+                  <properties />
+                </test-case>
+                <test-case id="1076" name="OrbitAndAcquisition(-179.9f)" fullname="ClientXR.Grips.Tests.GripParityTests.OrbitAndAcquisition(-179.9f)" methodname="OrbitAndAcquisition" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="1514740928" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.000407" asserts="0">
+                  <properties />
+                </test-case>
+              </test-suite>
+              <test-suite type="ParameterizedMethod" id="1086" name="PreviewContactParityAndProxyReuse" fullname="ClientXR.Grips.Tests.GripParityTests.PreviewContactParityAndProxyReuse" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.018337" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+                <properties />
+                <test-case id="1083" name="PreviewContactParityAndProxyReuse(0.8f)" fullname="ClientXR.Grips.Tests.GripParityTests.PreviewContactParityAndProxyReuse(0.8f)" methodname="PreviewContactParityAndProxyReuse" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="2092853406" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.007168" asserts="0">
+                  <properties />
+                </test-case>
+                <test-case id="1084" name="PreviewContactParityAndProxyReuse(1.0f)" fullname="ClientXR.Grips.Tests.GripParityTests.PreviewContactParityAndProxyReuse(1.0f)" methodname="PreviewContactParityAndProxyReuse" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="1719348290" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.004202" asserts="0">
+                  <properties />
+                </test-case>
+                <test-case id="1085" name="PreviewContactParityAndProxyReuse(1.2f)" fullname="ClientXR.Grips.Tests.GripParityTests.PreviewContactParityAndProxyReuse(1.2f)" methodname="PreviewContactParityAndProxyReuse" classname="ClientXR.Grips.Tests.GripParityTests" runstate="Runnable" seed="260264372" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.003014" asserts="0">
+                  <properties />
+                </test-case>
+              </test-suite>
+            </test-suite>
+            <test-suite type="TestFixture" id="1093" name="GripScaleTests" fullname="ClientXR.Grips.Tests.GripScaleTests" classname="ClientXR.Grips.Tests.GripScaleTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.026978" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1095" name="ScaleIsOptInAndHandSizeCompensationRemainsInHandMetres" fullname="ClientXR.Grips.Tests.GripScaleTests.ScaleIsOptInAndHandSizeCompensationRemainsInHandMetres" methodname="ScaleIsOptInAndHandSizeCompensationRemainsInHandMetres" classname="ClientXR.Grips.Tests.GripScaleTests" runstate="Runnable" seed="373348107" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.007987" asserts="0">
+                <properties />
+              </test-case>
+              <test-case id="1094" name="ScalePreviewHandlesApplyUndoAndReferenceDataStayConsistent" fullname="ClientXR.Grips.Tests.GripScaleTests.ScalePreviewHandlesApplyUndoAndReferenceDataStayConsistent" methodname="ScalePreviewHandlesApplyUndoAndReferenceDataStayConsistent" classname="ClientXR.Grips.Tests.GripScaleTests" runstate="Runnable" seed="1156184949" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.015199" asserts="0">
+                <properties />
+              </test-case>
+            </test-suite>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+    <test-suite type="Assembly" id="1104" name="StarterKit.EditMode.Tests.dll" fullname="D:/Office/Siemens/Projects/unity-xr-experience-starter-kit/_scratch/portability-check/UnityXRTemplate/Library/ScriptAssemblies/StarterKit.EditMode.Tests.dll" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:24Z" duration="0.994787" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="13720" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+      </properties>
+      <test-suite type="TestSuite" id="1105" name="XRStarter" fullname="XRStarter" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:24Z" duration="0.992166" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1106" name="Tests" fullname="XRStarter.Tests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:24Z" duration="0.991503" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="1100" name="AuthoringTests" fullname="XRStarter.Tests.AuthoringTests" classname="XRStarter.Tests.AuthoringTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:24Z" duration="0.987775" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1102" name="AuthoredWristFitPlacesTheObjectAtThePhysicalWrist" fullname="XRStarter.Tests.AuthoringTests.AuthoredWristFitPlacesTheObjectAtThePhysicalWrist" methodname="AuthoredWristFitPlacesTheObjectAtThePhysicalWrist" classname="XRStarter.Tests.AuthoringTests" runstate="Runnable" seed="1592408048" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.001609" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1103" name="PairFitStaysCenteredWithoutChangingRigidHandleSpacing" fullname="XRStarter.Tests.AuthoringTests.PairFitStaysCenteredWithoutChangingRigidHandleSpacing" methodname="PairFitStaysCenteredWithoutChangingRigidHandleSpacing" classname="XRStarter.Tests.AuthoringTests" runstate="Runnable" seed="154476124" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:23Z" duration="0.001918" asserts="0">
+              <properties />
+            </test-case>
+            <test-case id="1101" name="SavedDemoPassesReferenceAndXRChecks" fullname="XRStarter.Tests.AuthoringTests.SavedDemoPassesReferenceAndXRChecks" methodname="SavedDemoPassesReferenceAndXRChecks" classname="XRStarter.Tests.AuthoringTests" runstate="Runnable" seed="2096933581" result="Passed" start-time="2026-11-04 07:58:23Z" end-time="2026-11-04 07:58:24Z" duration="0.980538" asserts="0">
+              <properties />
+              <output><![CDATA[STARTER_VALIDATION_PASSED: 36
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

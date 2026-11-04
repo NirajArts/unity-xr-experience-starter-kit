@@ -1,0 +1,1 @@
+{"name":"ClientXR.Grips.Editor","references":["ClientXR.Grips","Oculus.Interaction","Oculus.Interaction.Editor"],"includePlatforms":["Editor"],"autoReferenced":true}

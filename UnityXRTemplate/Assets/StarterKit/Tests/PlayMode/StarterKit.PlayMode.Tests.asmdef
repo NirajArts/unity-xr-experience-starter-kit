@@ -1,0 +1,1 @@
+{"name":"StarterKit.PlayMode.Tests","references":["StarterKit.Runtime","ClientXR.Grips","Oculus.Interaction","UnityEngine.UI"],"optionalUnityReferences":["TestAssemblies"],"autoReferenced":false}

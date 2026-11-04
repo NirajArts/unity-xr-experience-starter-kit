@@ -1,0 +1,5 @@
+{
+  "name": "StarterKit.Runtime",
+  "references": ["Oculus.VR", "Oculus.Interaction", "Oculus.Interaction.OVR", "ClientXR.Grips", "Unity.InputSystem", "UnityEngine.UI"],
+  "autoReferenced": true
+}

@@ -1,0 +1,230 @@
+[
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Runtime/ClientXR.Grips.asmdef",
+    "initial_sha256": "e0e8b40f7c19f05d99efca0d086ea7fd1aa21ee2f5d534484ea24688add82036",
+    "delivered_sha256": "83e7cc94a80fef7f8bf3f6fc098a13331162a546ae0275f9c0ac6129a59607ec",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Runtime/ClientXR.Grips.asmdef.meta",
+    "initial_sha256": "e24dbb2f6a6c53adf414ec38924ebff943d9e84884e5a25d6f1d9d441f9b39d2",
+    "delivered_sha256": "e24dbb2f6a6c53adf414ec38924ebff943d9e84884e5a25d6f1d9d441f9b39d2",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Runtime/GripDefinition.cs",
+    "initial_sha256": "8353f6085423bf78c84de99e73d94d33d06a4c1ae2c197dc41a84dfffceaafa5",
+    "delivered_sha256": "ebaac612d84f00d3e504c1c6c10a00042fcf69cc8b647dd9121ace4f57cd4f17",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Runtime/GripDefinition.cs.meta",
+    "initial_sha256": "a4b3f24994ce8383aea20435701d9895d6a4c0955703a32e9f8fe674bed2fb1f",
+    "delivered_sha256": "a4b3f24994ce8383aea20435701d9895d6a4c0955703a32e9f8fe674bed2fb1f",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Runtime/GripPoseResolver.cs",
+    "initial_sha256": "82e036ee6657e0d96b0d0beadb454cd0ac8aafed63cf347b2224368e2ef3419a",
+    "delivered_sha256": "19c9db9a908e3748a6b5ef6c56a0d48b48e5c85d1263d80fb85e77e003512a9b",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Runtime/GripPoseResolver.cs.meta",
+    "initial_sha256": "c1cc356b86871147dc6bdaf5839bf73911b8eea9c877c0af65e3299a3755bcdc",
+    "delivered_sha256": "c1cc356b86871147dc6bdaf5839bf73911b8eea9c877c0af65e3299a3755bcdc",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Runtime/GripProfile.cs",
+    "initial_sha256": "1477fcb6d35b7d91535cdd18d20dd62da8fd6aa31bc3c67a737d4362a6a1abb4",
+    "delivered_sha256": "536037211b887901038110e07e03682578bc8f05acf67132b6600dcf871e2e98",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Runtime/GripProfile.cs.meta",
+    "initial_sha256": "7d073d15c701a74819aaea72759c7f49996f0bf83bcce9037e4f38d6b7ca8ceb",
+    "delivered_sha256": "7d073d15c701a74819aaea72759c7f49996f0bf83bcce9037e4f38d6b7ca8ceb",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Runtime/GripTarget.cs",
+    "initial_sha256": "4bf7e2cb7280adf33336094641ec468352bec671780a1f4b1bdd1c4a88401fb1",
+    "delivered_sha256": "051d18378fe80eb41a7833b95b020fd0a958cc7bc9e3efde8c92000431c59e0a",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Runtime/GripTarget.cs.meta",
+    "initial_sha256": "30b129598ce16d84c817bc0f0094e56f2727f48aa147f4f6561741e14dba508f",
+    "delivered_sha256": "30b129598ce16d84c817bc0f0094e56f2727f48aa147f4f6561741e14dba508f",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Runtime/GripVisualState.cs",
+    "initial_sha256": "38dbecdaf05a58c89935ff9cea2a8c21c8e9102849ede32b9e68c5dfe739a581",
+    "delivered_sha256": "06d1562535cf25946244aae0e035d81603290f017176f6cdd4a2c408fde10a64",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Runtime/GripVisualState.cs.meta",
+    "initial_sha256": "fe466ad9074c76c6abefaccea197a23cba3c7bcbf9c8295861029a2c81358db8",
+    "delivered_sha256": "fe466ad9074c76c6abefaccea197a23cba3c7bcbf9c8295861029a2c81358db8",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Editor/ClientXR.Grips.Editor.asmdef",
+    "initial_sha256": "cff29aa8aa16d5607b6235ffbd33d0e96dd42c8dd05c809a9c1184e57cc45840",
+    "delivered_sha256": "ad4cee537ab5cb1d2710ea2545b9d41930f49a8ef18251658ef866c61c3ef1c9",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Editor/ClientXR.Grips.Editor.asmdef.meta",
+    "initial_sha256": "68db1c85ea05da2b3fefd954827fb94a663754ca183e7b86bd6c0c9397f93cc6",
+    "delivered_sha256": "68db1c85ea05da2b3fefd954827fb94a663754ca183e7b86bd6c0c9397f93cc6",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Editor/GripAuthoring.cs",
+    "initial_sha256": "4b68ba2848a59823b63042d17f3fab69a1d667100b387a1862f2d1ecdd937263",
+    "delivered_sha256": "627c8ace4562e2e19e806fd5459b2115ab0a0b7040413c5a95feb45ffe9d2e8b",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Editor/GripAuthoring.cs.meta",
+    "initial_sha256": "f57dee5f13752928070f1a9a17c1705e03d41097607aa806e31490a8b3e94e4b",
+    "delivered_sha256": "f57dee5f13752928070f1a9a17c1705e03d41097607aa806e31490a8b3e94e4b",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Editor/GripEditorParity.cs",
+    "initial_sha256": "b370ebbe26f8ba130b7c8cb03c29ac68dcb4c59fc0aac4d754ee9217d3ad48f3",
+    "delivered_sha256": "55c7d7e216b610e8bd0a858284a53dc2792e37fafa82e4175a7ac9813f6f2520",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Editor/GripEditorParity.cs.meta",
+    "initial_sha256": "3bb1ecaca2ca40b8b9fbebf81a54989e83fbd1068c4317714348e73cdf400d95",
+    "delivered_sha256": "3bb1ecaca2ca40b8b9fbebf81a54989e83fbd1068c4317714348e73cdf400d95",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Editor/GripEditorWindow.cs",
+    "initial_sha256": "20ef9b961b48c4acee3d5423bdb0a0e688a4aed52aff0c3543c2341cba1a9d62",
+    "delivered_sha256": "ce8b9d9dfff429652482695535ebc054353826db745ea216cc27bbb6ec153faa",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Editor/GripEditorWindow.cs.meta",
+    "initial_sha256": "705fa08dce2d7a3d9662948f53aaa50efea6835b7c5b5532c6debca0d12d3f4e",
+    "delivered_sha256": "705fa08dce2d7a3d9662948f53aaa50efea6835b7c5b5532c6debca0d12d3f4e",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Editor/GripPreview.cs",
+    "initial_sha256": "a480abbff7744b975ab8ce453e273788a802afd4ca2c8ba0c248243da3e3acea",
+    "delivered_sha256": "8c922376d5e47e7b6cfc0b94acdf9d13692c1d82f28f9a4fe0e11fcfd191928d",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Editor/GripPreview.cs.meta",
+    "initial_sha256": "ad285da49bb87bf274468cc72ff1e7d5b6829648a8ee60554d3306736046d753",
+    "delivered_sha256": "ad285da49bb87bf274468cc72ff1e7d5b6829648a8ee60554d3306736046d753",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Tests/EditMode/ClientXR.Grips.EditTests.asmdef",
+    "initial_sha256": "89864a4b033e05a47487090876d5287b1055a06e57bb3089cdcd22b3f2c46bd9",
+    "delivered_sha256": "e6440d415a89ded4d312c61597d7f723ef02672f647bde1492af4b71cb85d71e",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Tests/EditMode/ClientXR.Grips.EditTests.asmdef.meta",
+    "initial_sha256": "9e9db5aca787ab8c6b22818b3033a86ea539123265b17afef00e81abeebe8375",
+    "delivered_sha256": "9e9db5aca787ab8c6b22818b3033a86ea539123265b17afef00e81abeebe8375",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Tests/EditMode/GripDataTests.cs",
+    "initial_sha256": "8315b09249f0f4bb61fbfd2e3fe731a63f640bf1e8f1ce7f31769fc4088b30f0",
+    "delivered_sha256": "7750e2034fbf4c738285fea060ffe41770709417a86dd038d23e45f6812a9efc",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Tests/EditMode/GripDataTests.cs.meta",
+    "initial_sha256": "4f110ebc4bfad8b0373eac597471aff61e66f7ebaa98993007b26bb6df4046ee",
+    "delivered_sha256": "4f110ebc4bfad8b0373eac597471aff61e66f7ebaa98993007b26bb6df4046ee",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Tests/EditMode/GripJointControlsTests.cs",
+    "initial_sha256": "76e6e47590ea5c6f9160e74270692f35cd9126307bb1994b890eed29995bb8f2",
+    "delivered_sha256": "9eff1628bb6b44c3ad2e4fab9fcbc215102a9c2ee05961989dea54916501e31f",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Tests/EditMode/GripJointControlsTests.cs.meta",
+    "initial_sha256": "ccac6606c6b0f068855152eabd9f8ffdbd2ee1f5f627146b7affb263237b20e9",
+    "delivered_sha256": "ccac6606c6b0f068855152eabd9f8ffdbd2ee1f5f627146b7affb263237b20e9",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Tests/EditMode/GripParityTests.cs",
+    "initial_sha256": "7b3d6b204d3f40d0a48bbb00242a754e20a34c44d88a4515d9bdd21e1129446b",
+    "delivered_sha256": "c6f515dc4d40ee70ee171325ce1c5d381de3372559e2d666110dd45235c975af",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Tests/EditMode/GripParityTests.cs.meta",
+    "initial_sha256": "c6bc3e27806bdceca2807bab99027d1e37648a84be1c8a1a53528ca082cb67a5",
+    "delivered_sha256": "c6bc3e27806bdceca2807bab99027d1e37648a84be1c8a1a53528ca082cb67a5",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Tests/EditMode/GripScaleTests.cs",
+    "initial_sha256": "c7aa686b9b5499182797cd15a3acb48e0b42a469503f4278fb8e7bdcd36c7fc9",
+    "delivered_sha256": "c7aa686b9b5499182797cd15a3acb48e0b42a469503f4278fb8e7bdcd36c7fc9",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/ClientXR/GripEditor/Tests/EditMode/GripScaleTests.cs.meta",
+    "initial_sha256": "3340719469f1bdd1ff4149ac0538b20af25453748cf71b0ab4c8b6cf241e96ab",
+    "delivered_sha256": "3340719469f1bdd1ff4149ac0538b20af25453748cf71b0ab4c8b6cf241e96ab",
+    "bytes_changed_including_line_endings": false
+  },
+  {
+    "path": "UnityXRTemplate/Assets/Editor/CodexSceneBridge/CodexSceneBridge.cs",
+    "initial_sha256": "4726f657c96252592ff8179ab1e0cbab83edf98979bf5429b4f9aacdfa914917",
+    "delivered_sha256": "8248383278ee0deaeead5c4a2e0e767a47cc81338326c43a794af96dfa59219f",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/Editor/CodexSceneBridge/CodexSceneBridge.cs.meta",
+    "initial_sha256": "3dd1d163dba4c999b76da3ee2669665e9e80a4f569b32a4a646d0e56039f438a",
+    "delivered_sha256": "9004477473c7e3b9a74641af3e9e36191a44bcc0aa752b776b2abfb003f45fc9",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/Editor/CodexSceneBridge/CodexSceneBridgeProcessor.cs",
+    "initial_sha256": "f8776a6390ab8bc919f3e66cb3e83f04f7d0045a48ab360ae44f6b3a253cb918",
+    "delivered_sha256": "95a7799012cb88dc0589a553dcb60c2fd14a5db49f5b645242afc1705f5557fb",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/Editor/CodexSceneBridge/CodexSceneBridgeProcessor.cs.meta",
+    "initial_sha256": "00c2d3b74df9ce4373ceafb2da6ea8922d058138053f2a5192429ee3310a606d",
+    "delivered_sha256": "8d55bd50f72ba5c54bb5a4426df337968e05f438cc8c7e63a911ee04ec56621f",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/Editor/CodexSceneBridge/CodexSceneBridgeProtocol.cs",
+    "initial_sha256": "0ae986e503b273be5b6e798023055eb9580c971cd39fa3e374392c0566eaf3d2",
+    "delivered_sha256": "af5b6032720f21aed4771c811002bd768e024ca4a54b1d2d2e1b7f0448dfa75d",
+    "bytes_changed_including_line_endings": true
+  },
+  {
+    "path": "UnityXRTemplate/Assets/Editor/CodexSceneBridge/CodexSceneBridgeProtocol.cs.meta",
+    "initial_sha256": "85fd157a5173ed7353b463f770ddf38eb4deb507c4ed81551e3c548c4bef1ccc",
+    "delivered_sha256": "4ce3fd2289a7a00e047d2d95a96bc31fad19ecbbff00630248cec131750afc2f",
+    "bytes_changed_including_line_endings": true
+  }
+]

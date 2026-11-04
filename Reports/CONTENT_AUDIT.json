@@ -1,0 +1,60 @@
+{
+  "file_count": 239,
+  "failures": [],
+  "journal_bytes": 0,
+  "audio": [
+    {
+      "file": "button.wav",
+      "seconds": 0.07,
+      "sample_rate": 48000,
+      "channels": 1,
+      "peak": 0.1659,
+      "sha256": "489c27eaa6dd27c896ffb3e715ed82ba2368cc68d0af8671bdb2946c24a622b3"
+    },
+    {
+      "file": "complete.wav",
+      "seconds": 0.65,
+      "sample_rate": 48000,
+      "channels": 1,
+      "peak": 0.4138,
+      "sha256": "562eda4131b5d3c0540469a0e83dfe3bef7bf092fb7f7bf08809b3f47adeff17"
+    },
+    {
+      "file": "pickup.wav",
+      "seconds": 0.12,
+      "sample_rate": 48000,
+      "channels": 1,
+      "peak": 0.2251,
+      "sha256": "1b2975ff78dd8ee2740e401b08e559dcf078c2e471eed3e9690b8f3f8ea42355"
+    },
+    {
+      "file": "release.wav",
+      "seconds": 0.09,
+      "sample_rate": 48000,
+      "channels": 1,
+      "peak": 0.1948,
+      "sha256": "f1ad9f6a21f87964880508a1b086cdf705fc0e325591abc93460f1cf0af30399"
+    },
+    {
+      "file": "reset.wav",
+      "seconds": 0.3,
+      "sample_rate": 48000,
+      "channels": 1,
+      "peak": 0.2383,
+      "sha256": "aeb8c0c683e1051c5c0552040923dfde080c43edb853eb0fdf902602a1a8fd1c"
+    },
+    {
+      "file": "seat.wav",
+      "seconds": 0.22,
+      "sample_rate": 48000,
+      "channels": 1,
+      "peak": 0.2525,
+      "sha256": "aece44e80d57a35271502301188920adc04e421daf2f9b74a1fa2263651e0d18"
+    }
+  ],
+  "notes": [
+    "File/path/metadata audit, not a legal opinion.",
+    "WAV checks establish format and peak levels, not a human listening review.",
+    "Provenance and package licensing reviewed separately in Docs/REDISTRIBUTION.md."
+  ]
+}

@@ -1,0 +1,1 @@
+{"name":"ClientXR.Grips.EditTests","references":["ClientXR.Grips","ClientXR.Grips.Editor","Oculus.Interaction"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"]}
